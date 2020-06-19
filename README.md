@@ -22,3 +22,27 @@ pictured. Information about the dataset:
 
 · 1680 people with two or more images
 
+## Background knowledge
+
+### AlexNet CNN model
+
+This architecture was one of the first deep networks to push ImageNet Classification accuracy by a
+significant stride in comparison to traditional methodologies. It is composed of 5 convolutional layers
+followed by 3 fully connected layers :
+
+![AlexNet](https://user-images.githubusercontent.com/38895618/85140121-baccfe80-b23c-11ea-96fb-e6b379f28e60.PNG)
+
+AlexNet, proposed by Alex Krizhevsky, uses ReLu(Rectified Linear Unit) for the non-linear part, instead
+of a Tanh or Sigmoid function which was the earlier standard for traditional neural networks. ReLu is given
+by f(x) = max(0,x)
+
+### Task and problem
+
+The aim of this lab is to build an application in computer vision using « Alexnet CNN model » and
+« Labeled Faces in the Wild » dataset , then to visualize the accuracy obtained and display the graph model
+made by tensorflow .
+
+### Results and graph
+
+Displaying EPOCH , loss function and accuracy. The accuracy does not only depend on the network but also
+on the amount of data available for training and the number of accuracy.
