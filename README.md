@@ -38,7 +38,7 @@ by f(x) = max(0,x)
 
 ### Task and problem
 
-The aim of this lab is to build an application in computer vision using « Alexnet CNN model » and
+The aim of this work is to build an application in computer vision using « Alexnet CNN model » and
 « Labeled Faces in the Wild » dataset , then to visualize the accuracy obtained and display the graph model
 made by tensorflow .
 
