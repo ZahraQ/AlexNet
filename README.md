@@ -67,6 +67,6 @@ Displaying the graph which represent EPOCH according to loss function
 convolutional neural networks. In Advances in neural information processing systems (pp.
 1097-1105).
 
-[2] dataset : http://vis-www.cs.umass.edu/lfw/
+[2] Dataset : http://vis-www.cs.umass.edu/lfw/
 
 [3] https://www.tensorflow.org/
