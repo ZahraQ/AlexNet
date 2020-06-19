@@ -46,3 +46,27 @@ made by tensorflow .
 
 Displaying EPOCH , loss function and accuracy. The accuracy does not only depend on the network but also
 on the amount of data available for training and the number of accuracy.
+
+![Capture12](https://user-images.githubusercontent.com/38895618/85140843-c40a9b00-b23d-11ea-9987-805f58b80dc8.PNG)
+
+Classifying some images from the dataset “Labeled Faces in the Wild ”
+
+![Capture13](https://user-images.githubusercontent.com/38895618/85140992-003dfb80-b23e-11ea-87a5-da125a53ecee.PNG)
+
+Here an other execution that gave some false prediction
+
+![Capture14](https://user-images.githubusercontent.com/38895618/85141023-0af89080-b23e-11ea-88f6-8ba9b6ca0f84.PNG)
+
+Displaying the graph which represent EPOCH according to loss function
+
+![Capture11](https://user-images.githubusercontent.com/38895618/85141078-1fd52400-b23e-11ea-8c04-aac5698a117d.PNG)
+
+### Bibliography
+
+[1] Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Imagenet classification with deep
+convolutional neural networks. In Advances in neural information processing systems (pp.
+1097-1105).
+
+[2] dataset : http://vis-www.cs.umass.edu/lfw/
+
+[3] https://www.tensorflow.org/
